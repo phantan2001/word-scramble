@@ -1,163 +1,159 @@
 const words = [
     {
         word: "addition",
-        hint: "The process of adding numbers"
+        hint: " a thing that is added to something else"
     },
     {
         word: "meeting",
-        hint: "Event in which people come together"
+        hint: "an occasion when people come together to discuss or decide something"
     },
     {
-        word: "number",
-        hint: "Math symbol used for counting"
+        word: "bodyguard",
+        hint: "a person or a group of people who are employed to protect somebody"
     },
     {
-        word: "government",
-        hint: "the most important of a country"
-    },
-    {
-        word: "map",
-        hint: "used to find the way"
-    },
-    {
-        word: "computer",
-        hint: "electronic equipment that controls information and data"
+        word: "judge",
+        hint: "a person in a court who has the authority to decide how criminals should be punished or to make legal decisions"
     },
     {
         word: "knowledge",
-        hint: "related to education"
+        hint: "the information, understanding and skills that you gain through education or experience"
     },
     {
         word: "industry",
-        hint: "part of the economy"
+        hint: "the production of goods from raw materials, especially in factories"
     },
     {
         word: "freedom",
-        hint: "anyone wants"
+        hint: "the power or right to do or say what you want without anyone stopping you"
     },
     {
         word: "discussion",
-        hint: "Teamwork really needs this"
+        hint: "a conversation about somebody/something; the process of discussing somebody/something"
     },
     {
         word: "inflation",
-        hint: "lose value of money"
+        hint: "a fall in the value of money and a general increase in prices; the rate at which this happens"
     },
     {
         word: "responsibility",
-        hint: "High position with high ..."
+        hint: "a duty to deal with or take care of somebody/something, so that you may be blamed if something goes wrong"
     },
     {
         word: "studio",
-        hint: "support for audio recording work"
+        hint: "a room where radio or television programmes are recorded and broadcast from, or where music is recorded"
+    },
+    {
+        word: "programmer",
+        hint: "a person whose job is writing computer programs"
     },
     {
         word: "percentage",
-        hint: "used a lot in math"
+        hint: "the number, amount or rate of something, expressed as if it is part of a total that is 100; a part or share of a whole"
     },
     {
         word: "patience",
-        hint: "It's a trait that needs training"
+        hint: "the ability to stay calm and accept a delay or something annoying without complaining"
     },
     {
         word: "secretary",
-        hint: "support for director or president"
+        hint: "a person who works in an office, working for another person, dealing with mail and phone calls, keeping records, arranging meetings with people, etc."
     },
     {
         word: "psychology",
-        hint: "This is a course about people"
+        hint: "the scientific study of the mind and how it influences behaviour"
     },
     {
         word: "storage",
-        hint: "used to save important things"
+        hint: "the process of keeping something in a particular place until it is needed; the space where things can be kept"
     },
     {
         word: "exchange",
-        hint: "the act of trading"
+        hint: "an act of giving something to somebody or doing something for somebody and receiving something in return"
     },
     {
         word: "canvas",
-        hint: "peace of fabric for oil painting"
+        hint: "a strong heavy rough material used for making tents, sails, etc. and by artists for painting on"
     },
     {
         word: "garden",
-        hint: "space for planting flower and plant"
+        hint: "a piece of land next to or around your house where you can grow flowers, fruit, vegetables, etc."
     },
     {
         word: "position",
-        hint: "Location of someone or something"
+        hint: "the place where somebody/something is located"
     },
     {
         word: "pocket",
-        hint: "a bag for carrying small items"
+        hint: "a small piece of material like a small bag sewn into or onto a piece of clothing so that you can carry things in it"
     },
     {
         word: "needle",
-        hint: "A thin and sharp metal pin"
+        hint: "a small thin piece of steel that you use for sewing, with a point at one end and a hole for the thread at the other"
     },
     {
         word: "expert",
-        hint: "person with extensive knowledge"
+        hint: "a person with special knowledge, skill or training in something"
     },
     {
         word: "statement",
-        hint: "A declaration of something"
+        hint: "something that you say or write that gives information or an opinion"
     },
     {
-        word: "second",
-        hint: "One-sixtieth of a minute"
+        word: "economist",
+        hint: "a person who studies or writes about economics"
     },
     {
         word: "library",
-        hint: "Place containing collection of books"
+        hint: "a building in which collections of books, newspapers, etc. and sometimes films and recorded music are kept for people to read, study or borrow"
     },
     {
-        word: "group",
-        hint: "A number of objects or persons"
+        word: "pharmacist",
+        hint: "a person whose job is to prepare medicines and sell or give them to the public in a shop or in a hospital"
     },
     {
-        word: "country",
-        hint: "A politically identified region"
+        word: "nanny",
+        hint: "a person whose job is to take care of young children in the children's own home"
     },
     {
         word: "expansion",
-        hint: "The process of increase or grow"
+        hint: "an act of increasing or making something increase in size, amount or importance"
     },
     {
         word: "tongue",
-        hint: "The muscular organ of mouth"
+        hint: "the soft part in the mouth that moves around, used for tasting, swallowing, speaking, etc."
     },
     {
-        word: "comfort",
-        hint: "A pleasant feeling of relaxation"
+        word: "biologist",
+        hint: "a scientist who studies biology"
     },
     {
         word: "feather",
-        hint: "Hair like outer covering of bird"
+        hint: "enlarge imageone of the many soft light parts covering a bird's body"
     },
     {
         word: "alcohol",
-        hint: "used in parties, eating"
+        hint: "drinks such as beer, wine, etc. that can make people drunk"
     },
     {
         word: "cancer",
-        hint: "a very dangerous disease for humans"
+        hint: "a serious disease in which growths of cells, The disease often causes death."
     },
     {
         word: "mixture",
-        hint: "mix many substances together"
+        hint: "a substance made by mixing other substances together"
     },
     {
         word: "protection",
-        hint: "action to ensure safety"
+        hint: "a thing that protects somebody/something against something"
     },
     {
         word: "atmosphere",
-        hint: "sustain human life"
+        hint: "the mixture of gases that surrounds the earth"
     },
     {
         word: "negotiation",
-        hint: "the act of two or more parties exchanging and discussing"
+        hint: "formal discussion between people who are trying to reach an agreement"
     },
     
 ] 
